@@ -46,7 +46,7 @@ function App() {
   return (
     <div className="container">
       <nav className="navbar">
-        <h2>My Portfolio</h2>
+        <h2>Yasin Sazid</h2>
         <div>
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
